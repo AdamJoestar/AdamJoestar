@@ -8,4 +8,4 @@
 </a>
 </p>
 
-![Visitors](https://komarev.com/ghpvc/?username=[USERNAME-KAMU]&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=AdamJoestar&color=blueviolet&style=flat-square)
